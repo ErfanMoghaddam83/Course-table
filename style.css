@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    text-align: center;
+    font-size: xxx-large;
+    padding: 20px;
+}
+#container{
+    width: 1300px;
+    height: 600px;
+    border: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 50px;
+}
+#container .box{
+    width: 500px;
+    height: 600px;
+    background: rgba(255, 255, 255, 0.479);
+    margin: 5px;
+}
+.title-1{
+    text-align: center;
+    font-size: xx-large;
+    background: rgba(0, 0, 136, 0.938); 
+    color: beige;
+}
+.subscrip-1{
+    text-align: center;
+    font-size: xxx-large;
+    background: blue;
+    color: beige;
+    height: 90px;
+    padding: 10px;
+}
+pre{
+    font-size: small;
+}
+.list-1{
+    list-style-type: none;
+    text-align: center;
+    padding: 30px;
+    font-size: medium;
+    border: 1px solid gray;
+}
+.list-1-1{
+    font-size: medium;
+    margin: 0px 0px 0px 0px;
+    padding: 20px 30px ;
+}
+.list-1-2{
+    font-size: large;
+    background: rgb(170, 167, 167);
+    padding: 30px 30px;
+    margin: 0px -30px;
+}
+.submit:hover{
+    background: purple;
+}
+.submit {
+	background-color:#05d5facc;
+	color: rgba(256,256,256,0.7);
+	border: 2px solid whitesmoke;
+	border-radius: 15px;
+	margin: 15px 80px; 
+	padding: 10px 5px;
+	width: 50%;
+	font-size: 13px;
+	font-weight: bold;
+	opacity: 1;
+    cursor: grab;
+}
+/* subscrip-2 */
+.title-2{
+    text-align: center;
+    font-size: xx-large;
+    background: rgba(236, 135, 3, 0.938); 
+    color: beige;
+}
+.subscrip-2{
+    text-align: center;
+    font-size: xxx-large;
+    background: rgb(255, 187, 0);
+    color: beige;
+    height: 90px;
+    padding: 10px
+}
+.submit-2:hover{
+    background: purple;
+}
+.submit-2{
+    background-color:rgba(236, 135, 3, 0.938);
+	color: rgba(256,256,256,0.7);
+	border: 2px solid whitesmoke;
+	border-radius: 15px;
+	margin: 15px 80px; 
+	padding: 10px 5px;
+	width: 50%;
+	font-size: 13px;
+	font-weight: bold;
+	opacity: 1;
+    cursor: grab;
+}
+/* subscrip-3 */
+.title-3{
+    text-align: center;
+    font-size: xx-large;
+    background: rgba(7, 141, 63, 0.938); 
+    color: beige;
+}
+.subscrip-3{
+    text-align: center;
+    font-size: xxx-large;
+    background: rgb(81, 255, 0);
+    color: beige;
+    height: 90px;
+    padding: 10px
+}
+.submit-3:hover{
+    background: purple;
+}
+.submit-3{
+    background-color:rgba(0, 255, 34, 0.938);
+	color: rgba(256,256,256,0.7);
+	border: 2px solid whitesmoke;
+	border-radius: 15px;
+	margin: 15px 80px; 
+	padding: 10px 5px;
+	width: 50%;
+	font-size: 13px;
+	font-weight: bold;
+	opacity: 1;
+    cursor: grab;
+}
+/* ************** subscrip-4 ********************/
+.title-4{
+    text-align: center;
+    font-size: xx-large;
+    background: rgba(141, 7, 7, 0.938); 
+    color: beige;
+}
+.subscrip-4{
+    text-align: center;
+    font-size: xxx-large;
+    background: rgb(255, 0, 0);
+    color: beige;
+    height: 90px;
+    padding: 10px
+}
+.submit-4:hover{
+    background: purple;
+}
+.submit-4{
+    background-color:rgba(255, 0, 0, 0.938);
+	color: rgba(256,256,256,0.7);
+	border: 2px solid whitesmoke;
+	border-radius: 15px;
+	margin: 15px 80px; 
+	padding: 10px 5px;
+	width: 50%;
+	font-size: 13px;
+	font-weight: bold;
+	opacity: 1;
+    cursor: grab;
+}
